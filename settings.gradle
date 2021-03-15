@@ -1,0 +1,3 @@
+include ':myhttplibrary'
+include ':app'
+rootProject.name = "My Application20"
